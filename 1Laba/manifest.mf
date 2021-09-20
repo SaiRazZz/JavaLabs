@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+
+Created-By: Gorev
+
+Main-Class: com.company.Zd1
